@@ -1,0 +1,60 @@
+---
+title: "Relatório de métodos qualitativos - Etnografia"
+format: typst
+documentclass: article
+author:
+  - name: Prof. - Ph.D. Ariane Roder Figueira
+    email: ariane.roder@coppead.ufrj.br
+    affiliations:
+      - name: COPPEAD - UFRJ
+        address: Av. Horácio Macedo, 2030 - Cidade Universitária
+        city: Rio de Janeiro
+        state: RJ
+        postal-code: 21941-914    
+  - name: Aluno - Marcus Antonio Cardoso Ramalho
+    orcid: 0000-0003-1689-0557
+    email: marcus.ramalho@coppead.ufrj.br
+    affiliations:
+      - name: COPPEAD - UFRJ
+        address: Av. Horácio Macedo, 2030 - Cidade Universitária
+        city: Rio de Janeiro
+        state: RJ
+        postal-code: 21941-914
+date: today
+date-format: "DD/MM/YYYY"
+lang: pt-BR
+toc: false
+toc-depth: 2
+bibliography: references.bib
+bibliographystyle: apa
+crossref:
+  fig-title: Figura
+  fig-prefix: tabela
+---
+
+## Introdução
+
+Este relatório tem o objetivo de apresentar uma análise crítica da seção de métodos do artigo "AI Hype and its Function: An Ethnographic Study of the Local News AI Initiative of the Associated Press" [@schaetz2025]. O artigo foi publicado em 2025 na revista *Digital Journalism*. A revista possui relevância internacional e está posicionada como uma das principais publicações para estudos sobre transformações tecnológicas no jornalismo contemporâneo.
+
+
+O relatório está estruturado em duas seções principais: primeiro, uma análise do artigo onde serão expostos os objetivos e a metodologia utilizada pelas autoras; em seguida, uma análise crítica da seção de métodos do artigo usando como referencial principal os trabalhos de @barley1990 e @prasad2005. 
+
+## Análise do artigo
+
+O trabalho de @schaetz2025 investiga como expectativas em torno da inteligência artificial funcionam como recursos culturais para coordenar atores, mobilizar recursos e produzir mudanças concretas no contexto da iniciativa Local News AI da Associated Press (AP). As autoras partem da premissa de que, embora muito se discuta sobre "hype" da IA como algo problemático, há uma lacuna no entendimento de como essas expectativas operam de forma produtiva e estratégica em contextos organizacionais específicos. O objetivo do estudo é compreender que função as expectativas servem na realização de projetos jornalísticos de IA em pequenas redações e quais são as implicações desse processo.
+
+Para atingir seus objetivos, as pesquisadoras adotaram uma abordagem etnográfica baseada em oito meses de trabalho de campo virtual, acompanhando a iniciativa da AP que visa desenvolver ferramentas de IA para cinco pequenas redações americanas em colaboração com cientistas de dados de universidades americanas. A coleta de dados envolveu múltiplas técnicas: observação participante em reuniões virtuais e webinars promocionais, entrevistas semiestruturadas com gestores de IA, jornalistas, cientistas de dados e engenheiros de machine learning, além da análise de documentos internos e materiais públicos da AP. As autoras utilizaram o referencial teórico da sociologia das expectativas, entendendo o hype não como uma distorção da realidade, mas como um fenômeno generativo que pode ter efeitos materiais concretos no presente.
+
+Os resultados mostraram que a realização bem-sucedida de projetos de IA jornalística depende de um trabalho de antecipação ("anticipation work") que envolve tanto construir quanto gerenciar expectativas. As autoras identificaram que os atores envolvidos aproveitavam a "flexibilidade interpretativa" das tecnologias de IA para apresentar diferentes enquadramentos interpretativos conforme a audiência e o momento. Este processo revelou três funções principais das expectativas: coordenar diversos stakeholders com diferentes competências e interesses; mobilizar recursos financeiros e institucionais que de outra forma seriam inacessíveis; e legitimar mudanças organizacionais em um setor tradicionalmente resistente a inovações tecnológicas. O estudo também identificou tensões significativas entre o discurso otimista necessário para atrair investimentos e as realidades práticas de implementação em redações com recursos limitados, evidenciando como o "future-making" em torno da IA pode tanto redistribuir recursos produtivamente quanto obscurecer futuros jornalísticos alternativos.
+
+## Análise da seção de métodos
+
+A seção de métodos do artigo de @schaetz2025 apresenta uma etnografia que dialoga com os princípios estabelecidos por @barley1990 e @prasad2005, mas adapta a tradição etnográfica para o contexto digital contemporâneo. As autoras justificaram a escolha da etnografia com base na necessidade de compreender os processos culturais e interacionais que envolvem a construção de expectativas tecnológicas, o que está alinhado com a observação de @prasad2005 de que a etnografia busca compreender o ponto de vista nativo e os significados internos compartilhados por uma cultura específica.
+
+Em relação ao design da pesquisa, @schaetz2025 demonstraram consciência metodológica ao optar por uma etnografia virtual de oito meses, uma decisão que ecoa as recomendações de @barley1990 sobre a importância da imersão prolongada para capturar processos organizacionais complexos. O autor enfatiza que "boa etnografia não é simplesmente tomar notas copiosas e jornalísticas sobre a convivência com os nativos," mas requer disciplina, planejamento e sistematização. Neste aspecto, as autoras apresentaram uma estrutura clara de coleta de dados, detalhando o calendário de observações, os critérios de seleção dos participantes e os múltiplos canais digitais monitorados.
+
+No que concerne à coleta de dados, as pesquisadoras empregaram uma estratégia de triangulação que combinou observação participante virtual, entrevistas semiestruturadas e análise documental. Esta abordagem está alinhada com as recomendações de @prasad2005 sobre o uso de múltiplas fontes de evidência para fortalecer a credibilidade da interpretação cultural. Contudo, observa-se uma limitação importante na exposição do processo reflexivo. Conforme @prasad2005 argumenta, a etnografia interpretativa requer que o pesquisador explicite "o entrelaçamento entre vivências de campo, análise interpretativa e posicionamento da pesquisadora," incluindo como sua presença e identidade influenciam os dados coletados. No contexto de uma etnografia virtual, questões sobre como as identidades digitais das pesquisadoras foram negociadas e como sua presença em plataformas online afetou as interações observadas permanecem subexploradas, pois a participação é limitada.
+
+Outra questão metodológica relevante diz respeito ao que @barley1990 denomina "gerenciamento das relações com os informantes". O autor enfatiza os desafios sociais e humanos do trabalho de campo, incluindo questões éticas e de reciprocidade. No caso de @schaetz2025, embora as autoras mencionem ter obtido consentimento dos participantes, há limitada discussão sobre os aspectos éticos específicos da observação de reuniões semi-privadas e sobre eventuais devolutivas aos participantes. @prasad2005 destaca que a etnografia carrega um "compromisso ontológico e relacional" que vai além da coleta de dados, incluindo responsabilidades para com as comunidades estudadas.
+
+Concluindo, em relação à análise dos dados, @schaetz2025 utilizaram a sociologia das expectativas como framework interpretativo, organizando suas observações em temas emergentes relacionados às funções das expectativas. Embora esta abordagem seja coerente com a tradição interpretativa, o artigo poderia ter se beneficiado de uma discussão mais explícita sobre os procedimentos analíticos empregados. @barley1990 denota a importância de tornar visível o caminho percorrido desde as questões de pesquisa iniciais até as conclusões finais do estudo, incluindo como categorias emergentes se relacionam com proposições teóricas. Uma maior transparência sobre os processos de codificação e interpretação fortaleceria a validade interna do estudo, demonstrando como observações específicas de campo suportam as conclusões teóricas apresentadas.
