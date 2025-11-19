@@ -1,0 +1,61 @@
+---
+title: "Relatório de métodos qualitativos - Pesquisa-ação"
+format: typst
+documentclass: article
+author:
+  - name: Prof. - Ph.D. Ariane Roder Figueira
+    email: ariane.roder@coppead.ufrj.br
+    affiliations:
+      - name: COPPEAD - UFRJ
+        address: Av. Horácio Macedo, 2030 - Cidade Universitária
+        city: Rio de Janeiro
+        state: RJ
+        postal-code: 21941-914    
+  - name: Aluno - Marcus Antonio Cardoso Ramalho
+    orcid: 0000-0003-1689-0557
+    email: marcus.ramalho@coppead.ufrj.br
+    affiliations:
+      - name: COPPEAD - UFRJ
+        address: Av. Horácio Macedo, 2030 - Cidade Universitária
+        city: Rio de Janeiro
+        state: RJ
+        postal-code: 21941-914
+date: today
+date-format: "DD/MM/YYYY"
+lang: pt-BR
+toc: false
+toc-depth: 2
+bibliography: references.bib
+bibliographystyle: apa
+crossref:
+  fig-title: Figura
+  fig-prefix: tabela
+---
+
+## Introdução
+
+Este relatório tem o objetivo de desenvolver uma análise crítica da seção metodológica do artigo "Action research at the BBC: Interrogating artificial intelligence with journalists to generate actionable insights for the newsroom" [@jones2025]. O trabalho foi publicado em 2025 na revista *Journalism*. A publicação possui reconhecimento internacional e se estabelece como uma das referências centrais para estudos sobre jornalismo contemporâneo e suas intersecções com tecnologia.
+
+A estrutura deste relatório compreende duas partes: inicialmente, apresenta-se uma análise do artigo, expondo seus propósitos e procedimentos metodológicos adotados pelas pesquisadoras; posteriormente, desenvolve-se uma análise crítica da seção metodológica, utilizando como referencial teórico o trabalho de @macdonald2012 sobre pesquisa-ação participativa.
+
+## Análise do artigo
+
+O estudo de @jones2025 examina um projeto de pesquisa-ação desenvolvido ao longo de três anos na British Broadcasting Corporation (BBC), a maior organização de mídia de serviço público do Reino Unido. As pesquisadoras propõem-se a investigar como achados de pesquisa sobre inteligência artificial podem ser gerados no contexto jornalístico, ao mesmo tempo em que intervêm para promover mudanças concretas nas práticas da redação. O objetivo central consiste em compreender o papel e a percepção da IA na produção de notícias, simultaneamente capacitando os jornalistas a desenvolverem perspectivas críticas e informadas sobre essas tecnologias emergentes.
+
+A estratégia metodológica envolveu múltiplas técnicas de coleta de dados, incluindo pesquisa documental, entrevistas semiestruturadas com 14 jornalistas, workshops reunindo participantes da indústria e do meio acadêmico, observação participante e grupos focais especulativos utilizando métodos de co-design. As autoras identificaram que a inteligibilidade da IA constituía um grande desafio para os jornalistas, comprometendo sua agência. Em resposta, desenvolveram métodos participativos para tornar a IA mais tangível, criando recursos visuais e ferramentas reutilizáveis. O estudo também trouxe a tona tensões entre as demandas do processo de pesquisa e a necessidade de resultados práticos, incluindo desafios relacionados ao financiamento, manutenção do comprometimento e mensuração de impactos. As pesquisadoras enfatizam a importância do "trabalho translacional" para comunicar ideias complexas entre diferentes grupos e transformar descobertas em achados úteis para todos os envolvidos.
+
+## Análise crítica da seção de métodos
+
+A seção metodológica de @jones2025 dialoga com os princípios de @macdonald2012, adaptando a pesquisa-ação para o contexto de uma organização de mídia lidando com tecnologias emergentes. As autoras justificaram a escolha metodológica com base na necessidade de intervir para gerar mudanças, alinhando-se à observação de @macdonald2012 de que a pesquisa-ação visa primariamente mudança social com ações específicas como objetivo final.
+
+Em relação ao design, @jones2025 realizaram uma pesquisa-ação incorporada de três anos. @macdonald2012 enfatiza que a pesquisa-ação requer tempo, conhecimento da comunidade e sensibilidade às agendas dos participantes. As autoras apresentaram claramente sua posição dupla como pesquisadoras acadêmicas e funcionárias da BBC, facilitando acesso mas exigindo reflexividade sobre conflitos de interesse. Esta transparência alinha-se à ênfase de @macdonald2012 na importância de abordar desequilíbrios de poder.
+
+Quanto à estrutura cíclica, as pesquisadoras empregaram uma abordagem iterativa combinando observação, reflexão, ação e avaliação, conforme descrito por @macdonald2012. Contudo, a exposição explícita desses ciclos foi limitada. A descrição de como as reflexões informaram ações subsequentes e como os participantes foram envolvidos em cada fase foi subexplorada, comprometendo a transparência metodológica.
+
+Uma questão relevante refere-se à "participação ativa" dos membros da comunidade [@macdonald2012]. Embora @jones2025 descrevam colaboração através de workshops e grupos focais, há limitada discussão sobre como os jornalistas participaram das decisões como definição de questões de pesquisa, escolha de métodos ou análise de resultados. As autoras reconhecem a significância dos recursos necessários, mas não detalham como garantiram que os jornalistas fossem "co-investigadores" e não apenas "sujeitos".
+
+Sobre os métodos de coleta, @jones2025 utilizaram triangulação apropriada de técnicas qualitativas, alinhada à recomendação de @macdonald2012. Porém, a descrição dos procedimentos específicos é superficial, sem detalhar seleção de participantes ou estruturação das entrevistas, o que comprometeria a credibilidade metodológica.
+
+Um aspecto a se destacar foi a mensuração de impactos. As autoras reconhecem abertamente esta dificuldade, alinhando-se à observação de @macdonald2012 de que a natureza tática da pesquisa-ação dificulta avaliações formais. A recomendação de equilibrar planejamento e flexibilidade demonstra adaptação pragmática.
+
+Concluindo, @jones2025 abordam reflexivamente sua posição dupla, alinhando-se à ênfase de @macdonald2012 na reflexividade. Contudo, @macdonald2012 recomenda "amigos críticos" para accountability. Embora @jones2025 mencionem relações informais com colegas acadêmicos, reconhecem limitações. Uma estrutura mais formal para reflexividade crítica teria fortalecido a metodologia.
