@@ -1,0 +1,61 @@
+---
+title: "Relatório de métodos qualitativos - Grounded Theory"
+format: typst
+documentclass: article
+author:
+  - name: Prof. - Ph.D. Ariane Roder Figueira
+    email: ariane.roder@coppead.ufrj.br
+    affiliations:
+      - name: COPPEAD - UFRJ
+        address: Av. Horácio Macedo, 2030 - Cidade Universitária
+        city: Rio de Janeiro
+        state: RJ
+        postal-code: 21941-914    
+  - name: Aluno - Marcus Antonio Cardoso Ramalho
+    orcid: 0000-0003-1689-0557
+    email: marcus.ramalho@coppead.ufrj.br
+    affiliations:
+      - name: COPPEAD - UFRJ
+        address: Av. Horácio Macedo, 2030 - Cidade Universitária
+        city: Rio de Janeiro
+        state: RJ
+        postal-code: 21941-914
+date: today
+date-format: "DD/MM/YYYY"
+lang: pt-BR
+toc: false
+toc-depth: 2
+bibliography: references.bib
+bibliographystyle: apa
+crossref:
+  fig-title: Figura
+  fig-prefix: tabela
+---
+
+## Introdução
+
+O presente relatório tem como objetivo realizar uma análise crítica da seção metodológica do artigo "An emergent grounded theory of AI-driven digital transformation: Canadian SMEs' perspectives" [@taherizadeh2023]. O trabalho foi publicado em 2023 na revista *Industry and Innovation*. A publicação é reconhecida internacionalmente como referência para estudos sobre inovação tecnológica e transformação organizacional.
+
+Este relatório estrutura-se em duas seções: primeiro, uma análise do artigo apresentando seus objetivos e abordagem metodológica; em seguida, uma análise crítica da seção de métodos tendo como referencial principal o trabalho de @suddaby2006 sobre equívocos comuns na aplicação da grounded theory.
+
+## Análise do artigo
+
+O estudo de @taherizadeh2023 investiga o processo de transformação digital impulsionada por inteligência artificial (AIDT) em pequenas e médias empresas (PMEs) canadenses do setor manufatureiro. Os autores buscam identificar as dimensões centrais desse processo e desenvolver uma teoria fundamentada que explique como a AIDT se desenrola nesse contexto específico. A pesquisa parte da constatação de que, apesar do potencial da IA, sua adoção permanece limitada entre firmas canadenses.
+
+A metodologia adotada segue a tradição straussiana da grounded theory, utilizando entrevistas semiestruturadas com 27 participantes de 17 organizações, além de observação em cinco eventos focados em IA. A análise empregou codificação sistemática (aberta, axial e seletiva) através do método comparativo constante. Os resultados revelaram cinco dimensões centrais da AIDT: avaliação do contexto de transformação, auditoria da prontidão organizacional, pilotagem da integração de IA, escalonamento da implementação e liderança da transformação. As quatro primeiras dimensões seguem progressão sequencial, enquanto a quinta é recorrente e onipresente.
+
+## Análise crítica da seção de métodos
+
+A seção metodológica de @taherizadeh2023 apresenta uma aplicação consistente da grounded theory, dialogando adequadamente com os princípios discutidos por @suddaby2006. Os autores demonstram consciência metodológica ao adotarem explicitamente a vertente straussiana, que não exige "abstinência da literatura existente" antes da coleta de dados.
+
+Quanto ao uso da literatura, @taherizadeh2023 apresentam revisão teórica substantiva antes dos achados empíricos, o que poderia ser questionado em interpretações mais puristas. Contudo, @suddaby2006 esclarece que a grounded theory nunca pretendeu encorajar pesquisa que ignorasse conhecimento empírico existente, mas sim evitar que hipóteses prévias forcem categorias nos dados. Os autores parecem equilibrar adequadamente teoria prévia e abertura para categorias emergentes.
+
+Em relação à apresentação dos dados, @suddaby2006 alerta que grounded theory não é apresentação de dados brutos nem aplicação mecânica de técnicas. @taherizadeh2023 demonstram esforço em "elevar" os dados a níveis conceituais mais abstratos, movendo-se de conceitos de primeira ordem para temas de segunda ordem e dimensões agregadas.
+
+Sobre o processo de codificação, os autores descrevem transparentemente a aplicação de codificação aberta, axial e seletiva. @suddaby2006 critica a aplicação excessivamente mecânica dessas técnicas, enfatizando que grounded theory é um processo interpretativo que demanda criatividade. Embora @taherizadeh2023 sigam procedimentos sistemáticos, demonstram sensibilidade teórica ao articular os achados com o framework de capacidades dinâmicas, evidenciando um certo nível de interpretação criativa.
+
+Quanto à saturação teórica, @suddaby2006 observa que determinar quando ocorre saturação requer entendimento tácito desenvolvido através da experiência. @taherizadeh2023 não discutem explicitamente como determinaram a saturação, o que representa uma limitação na transparência metodológica.
+
+Um aspecto positivo é a coerência epistemológica. @suddaby2006 alerta contra o "slurring metodológico", misturar pressupostos positivistas com métodos interpretativos. @taherizadeh2023 mantêm consistência ao buscar compreender como atores interpretam e constroem significado sobre a transformação digital, sem tentar testar hipóteses predefinidas.
+
+Por fim, @suddaby2006 enfatiza que grounded theory não é desculpa para ausência de metodologia. @taherizadeh2023 apresentam descrição de seus procedimentos, incluindo perfil dos entrevistados, duração das entrevistas e eventos observados. Esta transparência ajudou a avaliar o rigor do trabalho, embora maior detalhamento sobre o processo iterativo entre coleta e análise pudesse fortalecer ainda mais a seção metodológica.
